@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CMMScheduling</string>
+    <string name="emblem">Emblem</string>
+    <string name="workshop_booking">Workshop Booking</string>
+    <string name="calender_image">Calender</string>
+    <string name="cris_logo">CRIS Logo</string>
+    <string name="owning_railway">Owning Railway</string>
+    <string name="coach_number">Coach Number</string>
+    <string name="coach">Coach : </string>
+    <string name="find_coach">Find Coach</string>
+    <string name="maintenance_depot">Maint. Depot/Division : </string>
+    <string name="poh">POH : </string>
+    <string name="p_date">P Date: </string>
+    <string name="r_date">R Date: </string>
+    <string name="ioh_date">IOH Date: </string>
+    <string name="shop">Shop: </string>
+    <string name="reason">Reason:</string>
+    <string name="booking_date_time">Booking Date and time: </string>
+    <string name="remark">Remark (optional)</string>
+    <string name="submit">Submit</string>
+</resources>
